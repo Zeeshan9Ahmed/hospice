@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.3.5",
+        "laravel-vite-plugin": "^0.7.4",
+        "vite": "^4.2.1"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "fcm-node": "^1.6.1",
+        "fs": "0.0.1-security",
+        "https": "^1.0.0",
+        "mysql": "^2.18.1",
+        "node-modules": "^1.0.1",
+        "socket.io": "^4.6.1"
+    }
+}

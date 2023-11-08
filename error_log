@@ -1,0 +1,1 @@
+[22-May-2023 13:00:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/server1appsstagi/public_html/3559/hospice/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 83
